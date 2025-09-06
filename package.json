@@ -1,0 +1,26 @@
+{
+  "name": "webappdev25-cs",
+  "version": "1.0.0",
+  "description": "Nguyễn Đặng Nhật Anh - 23BI14028",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkrubzxD/WebAppDev25-CS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkrubzxD/WebAppDev25-CS/issues"
+  },
+  "homepage": "https://github.com/SkrubzxD/WebAppDev25-CS#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+  }
+}
